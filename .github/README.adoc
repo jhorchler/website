@@ -1,0 +1,4 @@
+= website
+Jörg Horchler <https://www.horchler.xyz>
+
+This repository stores all source files to build my https://www.horchler.xyz[website].
